@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Takuvuma
-- 👀 I’m interested in Computer Information Systems Security / Audit /Information Assurance 
-- 🌱 I’m currently learning at Talladega College in Alabama 
-- 💞️ I’m looking to collaborate on React Js Projects 
+- 👋 Hi, I’m @Takuvuma im a Frontend Web developer 
+- 👀 I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
+- 🌱 I’m currently learning at Talladega College in Alabama doing Compueter Information Systems and Security Audit 
+- 💞️ I’m looking to collaborate on React Js and React Native Projects 
 - 📫 How to reach me takuvuma@gmail.com 
 
 <!---
