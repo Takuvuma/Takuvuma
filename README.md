@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Takuvuma im a Frontend Web developer 
+- 👋 Hi, I’m @Takuvuma im a Software Engineer and Cyber Security and Cloud Analyst
 - 👀 I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
-- 🌱 I’m currently learning at Talladega College in Alabama doing Compueter Information Systems and Security Audit 
+- 🌱 I’m currently learning at Talladega College in Alabama doing Compueter Information Systems 
 - 💞️ I’m looking to collaborate on React Js and React Native Projects 
 - 📫 How to reach me takuvuma@gmail.com 
 
